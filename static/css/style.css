@@ -1,10 +1,14 @@
 body{
     margin: 0px;
-    background-color:#cccccc;
+  
 }
 #banner{
     width: 100%;
 }
+.principal{
+    background-color:#cccccc;
+}
+
 
 h1{
     text-align: center;
@@ -25,4 +29,7 @@ h2{
 }
 .itens{
     font-style:italic;
+}
+.beneficios{
+    background:#ffffff;
 }
